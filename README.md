@@ -1,50 +1,50 @@
-# 🐍 Curso de Ejercicios de Programación
+# 🐍 Programming Exercises Course
 
-## ✨ ¡Bienvenido/a al Repositorio de Práctica!
+## ✨ Welcome to the Practice Repository!
 
-Este repositorio contiene una colección de ejercicios y ejemplos diseñados para reforzar los conceptos fundamentales y avanzados de la programación, centrándose en el **análisis de datos**, el **manejo de archivos** y la **modularidad**.
+This repository holds a collection of exercises and examples designed to reinforce fundamental and advanced programming concepts, focusing on **data analysis**, **file handling**, and **code modularity**.
 
-Los ejercicios han sido seleccionados y complementados (¡algunos con la ayuda de Gemini!) para ofrecer un camino estructurado de aprendizaje y práctica.
+The exercises have been curated and supplemented (some with the assistance of Gemini!) to offer a structured path for learning and practice.
 
 ---
 
-## 🚀 Estructura del Curso
+## 🚀 Course Structure
 
-El contenido está organizado en directorios clave, cada uno enfocado en un área de estudio específica:
+The content is organized into key directories, each focusing on a specific area of study:
 
-| Directorio | Descripción | Tópicos de Enfoque (Ejemplos) |
+| Directory | Description | Key Focus Topics (Examples) |
 | :--- | :--- | :--- |
-| `the_basics` | Fundamentos de la sintaxis y lógica de programación. | Variables, tipos de datos, operadores, condicionales (`if/else`). |
-| `file_handling` | Técnicas para leer, escribir y manipular archivos. | Apertura y cierre de archivos, formatos comunes (CSV, TXT), manejo de excepciones. |
-| `files` | Ejercicios adicionales o proyectos que involucran la manipulación de archivos. | *Similares a `file_handling`, pero puede contener proyectos más grandes.* |
-| `modules` | Creación y uso de módulos y paquetes para organizar el código. | Importación, creación de funciones reutilizables, estructuras de proyectos. |
-| `data_analysis` | Introducción a la limpieza, procesamiento y análisis de datos. | Estructuras de datos (listas, diccionarios), manipulación de datos, con Pandas. |
+| `the_basics` | Fundamentals of syntax and programming logic. | Variables, data types, operators, conditionals (`if/else`). |
+| `file_handling` | Techniques for reading, writing, and manipulating files. | Opening and closing files, common formats (CSV, TXT), exception handling. |
+| `files` | Additional exercises or projects involving general file manipulation. | *Similar to `file_handling`, but may include larger projects.* |
+| `modules` | Creating and utilizing modules and packages to organize code. | Importing, creating reusable functions, project structure. |
+| `data_analysis` | Introduction to cleaning, processing, and analyzing data. | Data structures (lists, dictionaries), data manipulation with Pandas. |
 
 ---
 
-## 🛠️ Temas Clave de Práctica
+## 🛠️ Core Practice Topics
 
-El objetivo de estos ejercicios es dominar herramientas esenciales de la programación:
+The goal of these exercises is to master essential programming tools:
 
-* **Bucles:** `while` y `for` para iteración.
-* **Funciones:** Creación y uso de bloques de código reutilizables.
-* **Manejo de Archivos:** Lectura y escritura de datos.
-* **Fundamentos:** Sintaxis básica y control de flujo.
+* **Loops:** `while` and `for` for iteration.
+* **Functions:** Creating and using reusable blocks of code.
+* **File Handling:** Reading data from and writing data to files.
+* **Basics:** Fundamental syntax and flow control.
 
 ---
 
-## 💡 Cómo Empezar
+## 💡 How to Get Started
 
-1.  **Clonar el Repositorio:**
+1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/Stivendor/curso_maestro_python.git
     ```
-2.  **Explorar los Directorios:** Navega a la carpeta del tema que deseas practicar (ej. `cd the_basics`).
-3.  **Ejecutar los Ejercicios:** Abre y ejecuta los archivos de código.
-4.  **¡Practicar y Modificar!** Intenta resolver los ejercicios por tu cuenta antes de ver las soluciones (si están incluidas) y modifica los ejemplos para entenderlos a fondo.
+2.  **Explore the Directories:** Navigate to the folder of the topic you want to practice (e.g., `cd the_basics`).
+3.  **Run the Exercises:** Open and execute the code files.
+4.  **Practice and Modify!** Try to solve the exercises on your own before checking solutions (if included), and modify examples for a deeper understanding.
 
 ---
 
-## 🤝 Contribuciones
+## 🤝 Contributions
 
-Si tienes alguna sugerencia, corrección o deseas añadir más ejercicios, ¡las contribuciones son bienvenidas!
+If you have any suggestions, corrections, or wish to add more exercises, contributions are welcome!
